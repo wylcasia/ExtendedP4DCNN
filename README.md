@@ -1,7 +1,17 @@
 # Extended Pseudo 4DCNN
 ## High-fidelity View Synthesis for Light Field Imaging with Extended Pseudo 4DCNN
 ### Authors: Yunlong Wang, Fei Liu, Kunbo Zhang, Zilei Wang, Zhenan Sun, Tieniu Tan.
-submitted to IEEE Transactions on Computational Imaging
+@ARTICLE{9061053,
+  author={Wang, Yunlong and Liu, Fei and Zhang, Kunbo and Wang, Zilei and Sun, Zhenan and Tan, Tieniu},
+  journal={IEEE Transactions on Computational Imaging}, 
+  title={High-fidelity View Synthesis for Light Field Imaging With Extended Pseudo 4DCNN}, 
+  year={2020},
+  volume={6},
+  number={},
+  pages={830-842},
+  doi={10.1109/TCI.2020.2986092}}
+
+[IEEE Explore Webpage](https://ieeexplore.ieee.org/document/9061053)
 
 <!-- @InProceedings{10.1007/978-3-030-01216-8_21,
 author="Wang, Yunlong
